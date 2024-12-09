@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"handson.slr","l":"Data"},{"p":"handson.slr","l":"Mate"},{"p":"handson.slr","l":"RegresionCuadratica"},{"p":"handson.slr","l":"RegresionSimple"},{"p":"handson.slr","l":"SLR"}];updateSearchResults();

@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'D:/HERMANO MAURO/DOCUMENTOS/NetBeansProjects/SLR/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/HERMANO MAURO/DOCUMENTOS/NetBeansProjects/SLR/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SLR 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'SLR 1.0-SNAPSHOT API'
+handson.slr
+D:\HERMANO MAURO\DOCUMENTOS\NetBeansProjects\SLR\src\main\java = 1729640213937
+D:\HERMANO MAURO\DOCUMENTOS\NetBeansProjects\SLR\target\reports\apidocs\allclasses-index.html = 1729741829752
+D:\HERMANO MAURO\DOCUMENTOS\NetBeansProjects\SLR\target\reports\apidocs\allpackages-index.html = 1729741829771
+D:\HERMANO MAURO\DOCUMENTOS\NetBeansProjects\SLR\target\reports\apidocs\element-list = 1729741829603
+D:\HERMANO MAURO\DOCUMENTOS\NetBeansProjects\SLR\target\reports\apidocs\help-doc.html = 1729741829863
+D:\HERMANO MAURO\DOCUMENTOS\NetBeansProjects\SLR\target\reports\apidocs\index-all.html = 1729741829838
+D:\HERMANO MAURO\DOCUMENTOS\NetBeansProjects\SLR\target\reports\apidocs\index.html = 1729741829847
+D:\HERMANO MAURO\DOCUMENTOS\NetBeansProjects\SLR\target\reports\apidocs\member-search-index.js = 1729741829788
+D:\HERMANO MAURO\DOCUMENTOS\NetBeansProjects\SLR\target\reports\apidocs\module-search-index.js = 1729741829774
+D:\HERMANO MAURO\DOCUMENTOS\NetBeansProjects\SLR\target\reports\apidocs\overview-tree.html = 1729741829723
+D:\HERMANO MAURO\DOCUMENTOS\NetBeansProjects\SLR\target\reports\apidocs\package-search-index.js = 1729741829778
+D:\HERMANO MAURO\DOCUMENTOS\NetBeansProjects\SLR\target\reports\apidocs\search.html = 1729741829844
+D:\HERMANO MAURO\DOCUMENTOS\NetBeansProjects\SLR\target\reports\apidocs\tag-search-index.js = 1729741829791
+D:\HERMANO MAURO\DOCUMENTOS\NetBeansProjects\SLR\target\reports\apidocs\type-search-index.js = 1729741829781
